@@ -44,4 +44,4 @@ line, its expected points to start the drive would be about 2.5. If the team end
 by subtracting its expected points from how many points it actually gained, 3 – 2.5 or 0.5 EPA. This same logic can be applied to individual plays. Say the Chiefs start with
 the ball first-and-10 from their 25-yard line, where its expected points would be about 1.06. If Patrick Mahomes throws a 15-yard completion, making it first-and-10 on the
 KC 40-yard line, where the expected points is now 1.88, the EPA of that play would be 1.88 – 1.06 or 0.82. In other words, that completion increased the Chiefs’ expected
-points on that drive by just over three-fourths of a point.(source: https://www.the33rdteam.com/epa-explained/)
+points on that drive by just over three-fourths of a point (source: https://www.the33rdteam.com/epa-explained/).
