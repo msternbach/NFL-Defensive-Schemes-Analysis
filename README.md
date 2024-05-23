@@ -1,7 +1,5 @@
 # NFL-Defensive-Schemes-Analysis
 
-SQL Code: 
-
 Tableau Dashboard (click on fullscreen view for better viewing experience): https://public.tableau.com/app/profile/michael.sternbach/viz/FootballCoverageVizualization/Dashboard1
 
 ## Introduction: 
