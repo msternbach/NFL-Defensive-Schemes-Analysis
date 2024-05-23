@@ -24,3 +24,24 @@ more accurate when showing the difference in performance against different cover
 method has flaws as a team can run a coverage much more than normal in a game, but they aren’t running one coverage the whole game, so you can’t completely gauge if a player
 is necessarily worse or better against a certain coverage. That is why it’s more accurate to say that I was measuring quarterback performance against defensive schemes than
 coverages. That being said I couldn’t find any play by play data, so I’d say I picked the best possible method given the data I had.
+
+## Football Terminology (Please read if you don't have much football knowledge):
+
+In football a defense calls a play on every down to combat whatever the offense had called. There are all sorts of variations of those defensive plays but they will
+almost always be in one of seven defensive coverage shells: cover 0, cover 1, cover 2, cover 2 man, cover 3, cover 4, and cover 6. Cover 0, 1, and 2 man are types of man
+coverages where defensive players are matched up against each receiver and guard them man to man. In cover 1 there is one safety dropped back in zone coverage, in 
+cover 2 man there are two safeties dropped back in zone, and cover 0 there are no safeties. Cover 0 is arguably the most risky coverage as there are no safeties dropped back
+to help out if someone can’t guard their man. Cover 2, cover 3, cover 4 and cover 6 are types of zone coverage. Zone coverage is when every defensive player in coverage
+guards a specified area of the field i.e. a zone. In cover 2 there are two players dropped back in deep zones while the rest of the players in zones play closer to the
+quarterback. In cover 3 three defensive players drop back into deep zones and cover 4 four players are dropped back. Cover 6 is a little different where instead of six
+players dropping back it is splitting the field in half and playing cover 2 on one side of the field and cover 4 on the other.
+
+Fantasy points are used to score player's performance in way that can be applied to fantasy football. Quarterbacks are given fantasy points for every yard, touchdown, 
+interception, and fumble. The higher the points the better.
+
+Expected Points Added, commonly referred to as EPA, is a measure of how well a team performs relative to expectation. For example, if a team starts a drive on the 50-yard
+line, its expected points to start the drive would be about 2.5. If the team ends the drive with a field goal, thus gaining 3 points, its EPA for that drive would be found
+by subtracting its expected points from how many points it actually gained, 3 – 2.5 or 0.5 EPA. This same logic can be applied to individual plays. Say the Chiefs start with
+the ball first-and-10 from their 25-yard line, where its expected points would be about 1.06. If Patrick Mahomes throws a 15-yard completion, making it first-and-10 on the
+KC 40-yard line, where the expected points is now 1.88, the EPA of that play would be 1.88 – 1.06 or 0.82. In other words, that completion increased the Chiefs’ expected
+points on that drive by just over three-fourths of a point.(source: https://www.the33rdteam.com/epa-explained/)
