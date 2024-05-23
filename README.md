@@ -1,5 +1,9 @@
 # NFL-Defensive-Schemes-Analysis
 
+SQL Code: 
+
+Tableau Dashboard (click on fullscreen view for better viewing experience): https://public.tableau.com/app/profile/michael.sternbach/viz/FootballCoverageVizualization/Dashboard1
+
 ## Introduction: 
 The goal of this project was to learn how often different defensive coverages are called in the NFL, and then analyze how quarterbacks perform against each of these
 coverages. To do this I used two datasets; one with offensive statistics for every player who played in the 2022 and 2023 seasons and one with data on how often each 
@@ -16,6 +20,8 @@ let’s say across all games from 2022 to 2023 cover 2 was called at minimum 5% 
 for all games when cover 2 was called greater than 30% of the time. By doing this I could see whether or not the output by quarterbacks in those games were higher, lower,
 or the same as their average output across all games. If there was a big performance difference in those games versus their average I would make a note of it and say they 
 were worse against that defensive scheme (the scheme being running cover 2 more than 30%).
+
+In Tableau, I visualized the SQL code with a dashboard containing 3 charts. The chart on the top of the dashboard compares the average stats of selected players accross different coverages. The one on the bottom left shows how often each coverage was called on average against each quarterback. The one on the bottom right shows individual player stats for every game over the past two seasons, and the percentile the selected coverage was run in those games. The dashboard is interactive. You can choose stat type, coverage type, and which players you want to see on the visualization. I encourage you to play around with the dashboard and look at it in fullscreen as it shows the best view.
 
 There were a few limitations of the project that should be considered. One was that I could only get defensive coverage data from the past two seasons. It would’ve been
 preferable to have data for more seasons, but I had to work with what was available. Next, the biggest issue was that I would have much rather had play by play data instead
